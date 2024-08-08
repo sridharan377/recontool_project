@@ -9,7 +9,7 @@ const Main = () => {
           <p>
             Recon tool
           </p>
-          <button className='btn'>Explore more<img src={dark_arrow} alt="" /> </button>
+          
         
       </div>
       
