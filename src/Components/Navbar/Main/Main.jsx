@@ -1,6 +1,6 @@
 import React from 'react'
 import './Main.css'
-import dark_arrow from '../../../assets/dark-arrow.png'
+
 const Main = () => {
   return (
     <div className='Main container'>
