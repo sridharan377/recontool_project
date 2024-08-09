@@ -23,7 +23,7 @@ const Test = () => {
 
                         </div>
                     </div>
-                    <p> In this Project</p>
+                    <p> </p>
                 </div>
             </li>
             <li> 
@@ -36,7 +36,7 @@ const Test = () => {
 
                         </div>
                     </div>
-                    <p> In this Project</p>
+                    <p> </p>
                 </div>
             </li>
             
